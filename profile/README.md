@@ -13,8 +13,8 @@ rolled back, and reproduced.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/library.png" width="49%" alt="The Apara library: nine Windows programs installed as ordinary macOS citizens">
-  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/program-detail.png" width="49%" alt="A program page: graphics route, pinned runtime, storage, and a rollback offer">
+  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/library-v2.png" width="49%" alt="The Apara library: Windows games and apps as cards, with tabs for Games, Apps and Stores">
+  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/program-detail-v2.png" width="49%" alt="A program page: graphics route, pinned runtime, storage, and why it is set up this way">
 </p>
 
 ## The premise
