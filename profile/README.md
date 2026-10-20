@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/banner.svg" alt="Apara" width="100%">
+  <a href="https://apara.dev"><img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/banner.svg" alt="Apara — visit apara.dev" width="100%"></a>
 </div>
 
 <br>
