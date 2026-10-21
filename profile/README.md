@@ -13,8 +13,8 @@ rolled back, and reproduced.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/home-v3.webp" width="49%" alt="Apara's Home: a spotlight on the program played last, a dock of programs, and the stores and tested apps">
-  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/program-detail-v3.webp" width="49%" alt="A program page: graphics route, pinned runtime, storage, and why it is set up this way">
+  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/home-v4.webp" width="49%" alt="Apara's Home: a spotlight on the program played last, a dock of programs, and the stores and tested apps">
+  <img src="https://raw.githubusercontent.com/Apara-App/.github/main/profile/assets/program-detail-v4.webp" width="49%" alt="A program page: graphics route, pinned runtime, storage, and why it is set up this way">
 </p>
 
 ## The premise
